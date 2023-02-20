@@ -13,11 +13,11 @@ project_entries:
     desc: Explore ten steps you can take to make your research more reproducible.
 
   - title: Copyright, publishing and Open Access considerations for researchers
-    url: https://griffithunilibrary.github.io/copyright-publishing/#/
+    url: https://griffithunilibrary.github.io/copyright-publishing/
     desc: Learn about copyright issues and solutions for publishing your outputs.
 
   - title: Systematic style reviews: Develop your search strategy
-    url: https://griffithunilibrary.github.io/systematic-review-training/#/
+    url: https://griffithunilibrary.github.io/systematic-review-training/
     desc: Build a robust search strategy for your systematic-style review. Applicable across many disciplines and review types.  
 
   - title: Introduction to REDCap at Griffith
