@@ -1,7 +1,7 @@
 project_entries:
   - title: Introduction to computational thinking
     url: https://griffithunilibrary.github.io/intro-computational-thinking/
-    desc: Learn strategies to breakdown and solve complex problems. An essential prerequisite for to learning to program computers and write code.
+    desc: Learn strategies to breakdown and solve complex problems. 
 
   - title: Project 2
     url: overview-post
