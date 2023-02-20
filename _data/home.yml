@@ -2,6 +2,7 @@ project_entries:
   - title: Introduction to Computational Thinking
     url: https://griffithunilibrary.github.io/intro-computational-thinking/
     desc: Learn strategies to breakdown and solve complex problems. An essential prerequisite to learn computer programming and writing code.
+    highlight: NEW
 
   - title: Research Data Management
     url: https://griffithunilibrary.github.io/research-data-management/
@@ -11,29 +12,25 @@ project_entries:
     url: https://guereslib.github.io/ten-reproducible-research-things/
     desc: Explore ten steps you can take to make your research more reproducible.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Copyright, publishing and Open Access considerations for researchers
+    url: https://griffithunilibrary.github.io/copyright-publishing/#/
+    desc: Learn about copyright issues and solutions for publishing your outputs.
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Systematic style reviews: Develop your search strategy
+    url: https://griffithunilibrary.github.io/systematic-review-training/#/
+    desc: Build a robust search strategy for your systematic-style review. Applicable across many disciplines and review types.  
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Introduction to REDCap at Griffith
+    url: https://griffithunilibrary.github.io/redcap-intro/
+    desc: Learn how to build and deploy surveys in REDCap (Research Data CAPture), a web-based tool for clinical and longitudinal trials.
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Introduction to data cleaning with OpenRefine
+    url: https://griffithunilibrary.github.io/data-cleaning-intro/
+    desc: Learn basic data cleaning steps to transform raw or messy tabular data into a structured and organised format to enable processing and analysis. 
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Advanced Data Wrangling with OpenRefine
+    url: https://griffithunilibrary.github.io/advanced-data-wrangle-2/
+    desc: Learn data wrangling skills including combining datasets, geolocating data, and “what if” exploration using OpenRefine.
 
   - title: Moonwalk
     url: https://github.com/abhinavs/moonwalk
@@ -44,8 +41,8 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Griffith University
+    url: https://www.griffith.edu.au/
 
   - title: twitter
     url: https://twitter.com/abhinav
