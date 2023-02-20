@@ -1,6 +1,6 @@
 title: Digital Skills Tutorials for Researchers 
 author: Griffith University
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https:// # root address of the site
 description: > # description of the site (multiple lines allowed)
   A directory of online tutorials developed by Griffith University staff to support information, digital and data skills for researchers. 
 
@@ -48,4 +48,4 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
