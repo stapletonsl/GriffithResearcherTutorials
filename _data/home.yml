@@ -1,15 +1,15 @@
 project_entries:
-  - title: Introduction to computational thinking
+  - title: Introduction to Computational Thinking
     url: https://griffithunilibrary.github.io/intro-computational-thinking/
-    desc: Learn strategies to breakdown and solve complex problems. An essential prerequisite for to learning to program computers and write code.
+    desc: Learn strategies to breakdown and solve complex problems. An essential prerequisite to learn computer programming and writing code.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Research Data Management
+    url: https://griffithunilibrary.github.io/research-data-management/
+    desc: Learn how to organise, store, protect, share and archive your research data and files effectively and responsibly.  
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Ten Reproducible Research Things
+    url: https://guereslib.github.io/ten-reproducible-research-things/
+    desc: Explore ten steps you can take to make your research more reproducible.
 
   - title: Project 4
     url: overview-post
